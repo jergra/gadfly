@@ -1,2 +1,0 @@
-# gadfly
-pygame code
